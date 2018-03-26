@@ -1,3 +1,17 @@
+Installation guide
+
+To run this app in your local environment you will require 
+Install Nodejs
+Install create-react-app
+npm install create-react-app
+Create new application
+npx create-react-app <app-name>
+npm Install material-ui
+npm Install lodash
+Go to my github repo and download the files to override the default files in your app https://github.com/srcnabu/react-tables-and-forms.
+Run npm start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
